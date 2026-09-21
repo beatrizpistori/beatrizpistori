@@ -1,5 +1,5 @@
 ```js
-const benorbiato = {
+const beatrizpistori = {
   about:
     "Senior Software Engineer & AI/Data Specialist focused on building high-scale distributed systems, intelligent automation, and Data Lake architecture",
 
